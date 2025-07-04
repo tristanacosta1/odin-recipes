@@ -1,0 +1,1 @@
+This is my reflection for the recipes project of the odin project. In this project, I learned about the basic layout of an html document, as well as proper usage of headings, making proper lists, making working links, and adding images.
