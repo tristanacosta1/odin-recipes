@@ -3,4 +3,16 @@
     margin: auto;
 }
 
+html {
+    margin: 150px 300px;
+}
 
+.header {
+    background-color: #112943;
+    color: white;
+    text-align: center;
+}
+
+.accent {
+    background-color: #1d3c5b;
+}
