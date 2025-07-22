@@ -1,12 +1,15 @@
 * {
-    outline: 1px solid red !important;
+    /* outline: 1px solid red !important; */
     margin: auto;
 }
 
 html {
-    margin: 150px 300px;
+    margin: 150px 300px 0 300px;
 }
 
+.main-container {
+    background-color: #f6f5f3;
+}
 
 .header {
     background-color: #112943;
@@ -37,4 +40,8 @@ html {
 
 .scale {
     font-style: italic;
+}
+
+.main-content {
+    padding: 30px;
 }
